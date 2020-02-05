@@ -5155,7 +5155,7 @@ input[type='button'].btn-block
 }
 .bahati-logo
 {
-	padding-left: 0;
+	padding-left: 10px;
 }
 .navbar-nav .dropdown-menu
 {
@@ -13205,7 +13205,7 @@ input[type='time'].form-control-sm
     }
     .bahati-logo
     {
-	    padding-left: 1rem !important;
+	    padding-left: 0.5rem !important;
     }
 }
 .navbar-brand
