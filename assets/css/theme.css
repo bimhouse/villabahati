@@ -13702,6 +13702,13 @@ body
 
     background: url(../img/I001.jpg) no-repeat center center/cover;
 }
+
+.section_hero1
+{
+    min-height: 850px;
+
+    background: url(../img/HERO1.jpg) no-repeat center center/cover;
+}
 @media (min-width: 768px)
 {
     .section_about
