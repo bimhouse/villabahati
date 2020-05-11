@@ -1,2 +1,2 @@
 # Villa Bahati
-This repo is the repo used for the website.
+This repo is the repo used for the website on Netlify.
