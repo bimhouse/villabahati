@@ -1,2 +1,2 @@
-# bahati
-Main Bahati share for Netlify hosting.
+# Villa Bahati
+This repo is the repo used for the website.
